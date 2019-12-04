@@ -79,24 +79,16 @@ portfolio_type: cards #cards or carousel
 project_one: "First Project"
 project_one_description: Describe your project!
 project_one_url: https://github.com/jameshamann/jekyll-material-theme
-project_one_icon: location_on # these are from materiailize css, the full collection is here: http://materializecss.com/icons.html
 
 project_two: Second Project
 project_two_description: Describe your project!
 project_two_url: https://github.com/jameshamann/jekyll-material-theme
-project_two_icon: photo_camera
 
 
 project_three: Third Project
 project_three_description: Describe your project!
 project_three_url: https://github.com/jameshamann/jekyll-material-theme
-project_three_icon: hotel
 
-
-project_four: Fourth Project
-project_four_description: Describe your project!
-project_four_url: https://github.com/jameshamann/jekyll-material-theme
-project_four_icon: restaurant
 
 # Skill icons from https://konpa.github.io/devicon/
 

@@ -24,7 +24,7 @@ project_three_description: Make it Double!
 project_three_url: https://github.com/OSS-7/Project
 
 portfolio_heading: Our Works
-portfolio_type: carousel
+portfolio_type: card
 
 syntax_highlighting: true
 # Skill icons from https://konpa.github.io/devicon/
