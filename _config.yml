@@ -4,7 +4,7 @@ email:
 description: "OSS Group 7 Open source working Practice Project Using Git."
 
 baseurl: ""
-url: "JIHOI-KIM.github.io"
+url: "https://JIHOI-KIM.github.io"
 
 display_footer: inital  #change this to 'none' if you want to hide the footer copyright text
 
