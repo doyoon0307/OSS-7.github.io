@@ -1,7 +1,7 @@
-title: "Pascal Title"
-name: "Pascal Name"
-email: "pascal4847@gmail.com"
-description: "OSS-7 Practice Site"
+title: "TUI Game Pakage"
+name: "OSS Group 7"
+email: 
+description: "OSS Group 7 Open source working Practice Project Using Git."
 
 baseurl: ""
 url: "JIHOI-KIM.github.io"
@@ -14,17 +14,21 @@ parallax_image_two: assets/images/startup3.jpg
 project_one: "TUI Based Game Pakage"
 project_one_description: The Most Powerful Graphic Device is in our mind.
 project_one_url: https://github.com/OSS-7/Project
+project_one_icon: location_on
 
 project_two: "Development : TUI Tetris"
 project_two_description: Best Puzzle Game Ever.
 project_two_url: https://github.com/OSS-7/Project
+project_two_icon: photo_camera
+
 
 project_three: "Development : TUI 2048"
 project_three_description: Make it Double!
 project_three_url: https://github.com/OSS-7/Project
+project_three_icon: hotel
 
-portfolio_heading: Our Works
-portfolio_type: card
+portfolio_heading: Portfolio
+portfolio_type: cards
 
 syntax_highlighting: true
 # Skill icons from https://konpa.github.io/devicon/
