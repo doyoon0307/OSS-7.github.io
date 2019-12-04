@@ -12,9 +12,17 @@ parallax_image_one: assets/images/startup3.jpg # These are the images used for t
 parallax_image_two: assets/images/startup3.jpg
 
 project_one: "First Project"
-project_one_description: Describe your project!
-project_one_url: https://github.com/jameshamann/jekyll-material-theme
-project_one_icon: location_on
+project_one_description: The Most Powerful Graphic Device is in our mind.
+project_one_url: https://github.com/OSS-7/Project
+
+project_two: "First Project"
+project_two_description: The Most Powerful Graphic Device is in our mind.
+project_two_url: https://github.com/OSS-7/Project
+
+project_three: "First Project"
+project_three_description: The Most Powerful Graphic Device is in our mind.
+project_three_url: https://github.com/OSS-7/Project
+
 
 portfolio_heading: Our Works
 portfolio_type: carousel
