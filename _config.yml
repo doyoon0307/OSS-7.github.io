@@ -8,8 +8,8 @@ url: "https://JIHOI-KIM.github.io"
 
 display_footer: inital  #change this to 'none' if you want to hide the footer copyright text
 
-parallax_image_one: assets/images/ScreenCode1.jpg # These are the images used for the parallax background
-parallax_image_two: assets/images/ScreenCode1.jpg
+parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
+parallax_image_two: assets/images/startup3.jpg
 
 project_one: "TUI Based Game Pakage"
 project_one_description: The Most Powerful Graphic Device is in our mind.<br>Whatever You read can be happen on your mind. 
