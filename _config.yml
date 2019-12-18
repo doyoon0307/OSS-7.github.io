@@ -12,8 +12,7 @@ parallax_image_one: assets/images/startup3.jpg # These are the images used for t
 parallax_image_two: assets/images/startup3.jpg
 
 project_one: "TUI Based Game Pakage"
-project_one_description: The Most Powerful Graphic Device is in our mind.<br>Whatever You read can be happen on your mind.<br>*This is TUI Pakage Program.*<br>
-<br>_Current Games_<br>
+project_one_description: The Most Powerful Graphic Device is in our mind.<br>Whatever You read can be happen on your mind.<br>*This is TUI Pakage Program.*<br><br>Current Games<br>
 2048_CLI        Umoria<br>
 termosaur       Tetris_term<br>
 Brain-Teaser    Cokoban<br>
