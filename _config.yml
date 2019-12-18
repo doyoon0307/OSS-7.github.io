@@ -12,19 +12,18 @@ parallax_image_one: assets/images/startup3.jpg # These are the images used for t
 parallax_image_two: assets/images/startup3.jpg
 
 project_one: "TUI Based Game Pakage"
-project_one_description: The Most Powerful Graphic Device is in our mind.<br>Whatever You read can be happen on your mind.<br>*This is TUI Pakage Program.*<br><br>Current Games<br>2048_CLI        Umoria<br>termosaur       Tetris_term<br>Brain-Teaser    Cokoban<br>MineSweeper     The_charmed_house<br>Slot_Machine    Orbits<br>
-
+project_one_description: The Most Powerful Graphic Device is in our mind.<br>Whatever You read can be happen on your mind.<br>*This is TUI Pakage Program.*<br><br>Current Games<br>2048_CLI<br>Umoria<br>termosaur<br>Tetris_term<br>Brain-Teaser<br><br>Total 10 Games For Now Avilable.
 project_one_url: https://github.com/OSS-7/Project
 project_one_icon: location_on
 
 project_two: "Development : TUI Tetris"
-project_two_description: Best Puzzle Game Ever.
+project_two_description: Best Puzzle Game Ever.<br><br>We are trying to make more visuality for this game, on TUI!<br>Using ncurse, We grant it some color.<br><br>We will Project to Make LeaderBoard for the game.<br>Also, We will Try to Connect Score system with Pakage Program.
 project_two_url: https://github.com/OSS-7/Project
 project_two_icon: photo_camera
 
 
 project_three: "Development : TUI 2048"
-project_three_description: Make it Double!
+project_three_description: Make it Double!<br><br>This Team is trying to Enhance 2048 more comfortable, because it require ENTER to input.<br>Using getch() function (We Implement it!) take it account.<br><br> for now, we are looking for change another games.<br>We are interested in Minesweeper now. 
 project_three_url: https://github.com/OSS-7/Project
 project_three_icon: hotel
 
