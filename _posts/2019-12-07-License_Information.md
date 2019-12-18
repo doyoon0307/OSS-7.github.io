@@ -2,7 +2,7 @@
 layout: post
 title:  "License Information"
 date:   2019-12-07 21:15:05 +0000
-image: /assets/images/twoscreen.jpg
+image: /assets/images/desk.jpg
 ---
 
 We are using GPL 3.0 Now.<br>
