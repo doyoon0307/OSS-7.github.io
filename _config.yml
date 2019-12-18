@@ -14,11 +14,11 @@ parallax_image_two: assets/images/startup3.jpg
 project_one: "TUI Based Game Pakage"
 project_one_description: The Most Powerful Graphic Device is in our mind.<br>Whatever You read can be happen on your mind.<br>*This is TUI Pakage Program.*<br>
 <br>_Current Games_<br>
-2048_CLI		Umoria<br>
-termosaur		Tetris_term<br>
-Brain-Teaser	Cokoban<br>
-MineSweeper		The_charmed_house<br>
-Slot_Machine	Orbits<br>
+2048_CLI        Umoria<br>
+termosaur       Tetris_term<br>
+Brain-Teaser    Cokoban<br>
+MineSweeper     The_charmed_house<br>
+Slot_Machine    Orbits<br>
 
 project_one_url: https://github.com/OSS-7/Project
 project_one_icon: location_on
