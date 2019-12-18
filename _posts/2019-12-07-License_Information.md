@@ -46,6 +46,10 @@ And Here We Show More information for the adapted game.<bt>
 10. Lumorti/asciiOrbits 
 : MIT LICENSE
 <br>
+11. vmednis/2048
+: MIT LICENSE
+<br>
+<br>
 
 LICENSE of THIS Pakaging Program
 <br>
